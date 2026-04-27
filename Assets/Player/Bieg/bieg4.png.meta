@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 072ee89df1c165f4ea8db9e755fbbb87
+guid: 0c498b9b31be7254980b5ade05f91232
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2403070404755984699
-    second: "t\u0142o_0"
+      213: -7500534242340112318
+    second: bieg4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "t\u0142o_0"
+      name: bieg4_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 7284
-        height: 3799
+        x: 42
+        y: 108
+        width: 2218
+        height: 1225
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b311cb51dcb695120800000000000000
-      internalID: 2403070404755984699
+      spriteID: 248f9ab98dfb8e790800000000000000
+      internalID: -7500534242340112318
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e693128ba6c45ce4ea6206b4d5f95361
+    spriteID: cebb021d3064f864e8048707f055bb65
     internalID: 0
     vertices: []
     indices: 
@@ -137,7 +137,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      "t\u0142o_0": 2403070404755984699
+      bieg4_0: -7500534242340112318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
